@@ -1,7 +1,7 @@
 # CAiRE_HKUST submission for SemEval-2019 Task 3 Emo-Context
 
 ## System Description Paper
-[You can find our paper here, will appear in SemEval Proceedings](paper/paper.pdf)
+This is the implementation of our submission to Emo-Context. You can find our paper [here](paper/paper.pdf). It will appear in the SemEval Proceedings. Shared task website: https://www.humanizing-ai.com/emocontext.html
 
 ## Setup
 To begin, you need to install libraries and their dependencies
