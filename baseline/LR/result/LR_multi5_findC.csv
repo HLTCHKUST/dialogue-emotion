@@ -1,0 +1,17 @@
+catagory,feature,C,microF1
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-100,0.001,0.5558247301
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-200,0.01,0.5531429347
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-300,0.001,0.5528630355
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-50,0.001,0.5477824498
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-100,0.001,0.557929650
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-200,100.0,0.5589556959
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-300,0.001,0.5644023323
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-50,0.001,0.5602342138
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-100,0.001,0.5520820406
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-200,0.001,0.5509821093
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-300,0.01,0.5563384557
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-50,1.0,0.5462615516
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-25-100,0.1,0.5451836545
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-25-200,10.0,0.5460895280
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-25-300,1.0,0.5533909814
+LR_multi5,glove-w2v-deepmoji-glove-common-glove-twitter-emoji-25-50,10.0,0.5446798013

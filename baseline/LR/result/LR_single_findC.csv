@@ -1,0 +1,15 @@
+catagory,feature,C,microF1
+LR_single,emoji-300,2.6,0.309182144
+LR_single,bert-300,0.022,0.3800904977
+LR_single,deepmoji-300,1.0,0.5205479452
+LR_single,elmo-300,0.0075,0.6176470588
+LR_single,emo2vec-300,0.0085,0.5008109746
+LR_single,emoji-100,0.6,0.3047988422
+LR_single,emoji-200,10.0,0.3055808559
+LR_single,emoji-50,7.5,0.3101018785
+LR_single,glove-common-300,0.004,0.5471261137
+LR_single,glove-twitter-100,0.0015,0.5066574315
+LR_single,glove-twitter-200,0.0004,0.5402915228
+LR_single,glove-twitter-25,1.8,0.3602669654
+LR_single,glove-twitter-50,0.0025,0.4425005910
+LR_single,glove-w2v-300,0.0015,0.5307837793

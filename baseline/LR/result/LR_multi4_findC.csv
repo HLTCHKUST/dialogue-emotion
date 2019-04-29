@@ -1,0 +1,9 @@
+catagory,feature,C,microF1
+LR_multi4,emo2vec-bert-elmo-deepmoji-300-300,0.0001,0.4461567585
+LR_multi4,emo2vec-bert-elmo-emoji-300-300,0.0001,0.447376754
+LR_multi4,emo2vec-bert-elmo-glove-common-300-300,0.0001,0.5151157091
+LR_multi4,emo2vec-bert-elmo-glove-twitter-300-100,0.0001,0.5019910723
+LR_multi4,emo2vec-bert-elmo-glove-twitter-300-200,0.0001,0.5142166722
+LR_multi4,emo2vec-bert-elmo-glove-twitter-300-25,0.0001,0.4716565427
+LR_multi4,emo2vec-bert-elmo-glove-twitter-300-50,0.0001,0.4885444156
+LR_multi4,emo2vec-bert-elmo-glove-w2v-300-300,0.0001,0.5181899646

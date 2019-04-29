@@ -1,0 +1,12 @@
+catagory,feature,C,microF1
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-100,0.0001,0.54377802
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-100,0.0001,0.5494843359
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-200,0.0001,0.5489891168
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-300,0.0001,0.5495131877
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-100-50,0.0001,0.5483098529
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-200,0.0001,0.5386296515
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-50-300,0.0001,0.5433638589
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-100,0.0001,0.5516759571
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-200,0.0001,0.54950214
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-300,0.0001,0.5536663209
+LR_multi8,emo2vec-bert-elmo-glove-w2v-deepmoji-glove-common-glove-twitter-emoji-200-50,0.0001,0.5518041660
