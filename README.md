@@ -38,10 +38,6 @@ python3 eval.py --pred_file_path save/HLSTM_1000_DROP0.4_ALL_ATTN/test_voting.tx
 python3 predict.py --load_model_path save/TEST2/model_0 --cuda --save_path save/TEST2/
 python3 predict_hier.py --load_model_path save/HLSTM_1000_DROP0.4_ATTN_DOUBLE_0.1_GLOVE/model_5 --cuda --double_supervision --save_prediction_path save_final/HLSTM_1000_DROP0.4_ATTN_DOUBLE_0.1_GLOVE/model_5.txt --save_confidence_path save_final/HLSTM_1000_DROP0.4_ATTN_DOUBLE_0.1_GLOVE/model_5_confidence.txt 
 ```
-```--use_svm```: SVM
-```
-python3 predict_hier.py --load_model_path save_final/HLSTM_1000_DROP0.4_ATTN_DOUBLE_0.1_GLOVE/model_5 --cuda --double_supervision --save_path save_final/HLSTM_1000_DROP0.4_ATTN_DOUBLE_0.1_GLOVE/test_5_svm.txt --use_svm
-```
 
 ## Voting
 ```
