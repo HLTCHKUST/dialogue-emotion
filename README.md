@@ -1,7 +1,28 @@
 # CAiRE_HKUST submission for SemEval-2019 Task 3 Emo-Context
 
 ## System Description Paper
-This is the implementation of our submission to Emo-Context. You can find our paper [here](paper/paper.pdf). It will appear in the SemEval Proceedings. Shared task website: https://www.humanizing-ai.com/emocontext.html
+This is the implementation of our submission to Emo-Context. You can find our paper [here](https://www.aclweb.org/anthology/S19-2021). Shared task website: https://www.humanizing-ai.com/emocontext.html
+
+If you are using the code in your work, please cite the following
+```
+@inproceedings{winata-etal-2019-caire,
+    title = "{CA}i{RE}{\_}{HKUST} at {S}em{E}val-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification",
+    author = "Winata, Genta Indra  and
+      Madotto, Andrea  and
+      Lin, Zhaojiang  and
+      Shin, Jamin  and
+      Xu, Yan  and
+      Xu, Peng  and
+      Fung, Pascale",
+    booktitle = "Proceedings of the 13th International Workshop on Semantic Evaluation",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/S19-2021",
+    pages = "142--147",
+}
+```
 
 ## Setup
 To begin, you need to install libraries and their dependencies
