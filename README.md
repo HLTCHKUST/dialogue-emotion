@@ -30,7 +30,7 @@ This code has been written using PyTorch >= 1.0. If you use any source codes or 
 Detecting emotion from dialogue is a challenge that has not yet been extensively surveyed. One could consider the emotion of each dialogue turn to be independent, but in this paper, we introduce a hierarchical approach to classify emotion, hypothesizing that the current emotional state depends on previous latent emotions. We benchmark several feature-based classifiers using pre-trained word and emotion embeddings, state-of-the-art end-to-end neural network models, and Gaussian processes for automatic hyper-parameter search. In our experiments, hierarchical architectures consistently give significant improvements, and our best model achieves a 76.77% F1-score on the test set.
 
 ## Model Architecture
-<img src="img/sem.pdf"/>
+<img src="img/sem.jpg"/>
 
 ## Data
 You can find the data in [Linkedin page](https://www.linkedin.com/groups/12133338/).
