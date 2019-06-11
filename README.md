@@ -1,7 +1,11 @@
-# CAiRE_HKUST submission for SemEval-2019 Task 3 Emo-Context
+# Hierarchical Attention for Dialogue Emotion Classification
 
-## System Description Paper
+## CAiRE_HKUST submission for SemEval-2019 Task 3 Emo-Context
 This is the implementation of our submission to Emo-Context. You can find our paper [here](https://www.aclweb.org/anthology/S19-2021). Shared task website: https://www.humanizing-ai.com/emocontext.html
+
+We introduce a hierarchical approach to classify emotion, hypothesizing that the current emotional state depends on previous latent emotions. We benchmark several feature-based classifiers using pre-trained word and emotion embeddings, and state-of-the-art end-to-end neural network models.
+
+<img src="img/sem.jpg"/>
 
 If you are using the code in your work, please cite the following
 ```
